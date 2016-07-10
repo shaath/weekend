@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [orgHrmSuite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.orgHrm.Tests.testnguserreg">
+        <methods>
+          <include name="userreg"/>
+        </methods>
+      </class> <!-- com.orgHrm.Tests.testnguserreg -->
+      <class name="com.orgHrm.Tests.testngempreg">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="beforeSuite"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.orgHrm.Tests.testngempreg -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [orgHrmSuite] -->

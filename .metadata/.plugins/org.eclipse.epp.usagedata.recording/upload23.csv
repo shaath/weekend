@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924652464
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924652471
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924652474
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924652481
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924652483
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924652491
+error,log,,,"Unhandled event loop exception",1466924654510
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.file.saveAll",1466924666215
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924673574
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924673590
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924675674
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924686846
+activated,view,org.eclipse.ui.console,3.5.300.v20140424-1437,"org.eclipse.ui.console.ConsoleView",1466924686880
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466924699810
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924701154
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924706831
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924716654
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924716670
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924718723
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924729932
+activated,view,org.eclipse.ui.console,3.5.300.v20140424-1437,"org.eclipse.ui.console.ConsoleView",1466924729984
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924758737
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924778816
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924780213
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924781688
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924782609
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924804580
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466924805856
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466924809362
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924809364
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466924809389
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466924811983
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924811986
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924812001
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924812008
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466924812690
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466924813670
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924813674
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924813679
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466924813683
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466924813728
+error,log,,,"Unhandled event loop exception",1466924815143
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.file.saveAll",1466924823859
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924830961
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924830978
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924832714
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924856749
+activated,view,org.eclipse.ui.console,3.5.300.v20140424-1437,"org.eclipse.ui.console.ConsoleView",1466924856778
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466924868865
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466924869608
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925139784
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925143800
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143802
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143804
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143806
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143809
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143811
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143813
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143815
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143817
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143819
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143821
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143823
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143825
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143827
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143829
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143831
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143833
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143835
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143838
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143845
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143847
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143849
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143861
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925143868
+error,log,,,"Unhandled event loop exception",1466925159194
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925163932
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163935
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163939
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163943
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163948
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163952
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163956
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163961
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163963
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925163965
+error,log,,,"Unhandled event loop exception",1466925169331
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.paste",1466925173677
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925184729
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925184731
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466925184789
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925213821
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925213823
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466925213854
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925215985
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925216134
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925259383
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259385
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259387
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259390
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259397
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259401
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259404
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259408
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259410
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259413
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259416
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259419
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259423
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259425
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259427
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259430
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259432
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259435
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259437
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259440
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259444
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259447
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259450
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259453
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259455
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259457
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259459
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259461
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259463
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259465
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259468
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259471
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259473
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925259476
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925266732
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925266736
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466925266760
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.delete",1466925269368
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.delete",1466925269544
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.file.saveAll",1466925278974
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925289286
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925289302
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925291558
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925307287
+activated,view,org.eclipse.ui.console,3.5.300.v20140424-1437,"org.eclipse.ui.console.ConsoleView",1466925307326
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466925344769
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925365749
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466925402068
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925405246
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925405250
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466925405324
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925412662
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412665
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412668
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412670
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412673
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412675
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412678
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412682
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412685
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412686
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412690
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412692
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412694
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412697
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412699
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412700
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412703
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412705
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412707
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412709
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412711
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412712
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412714
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412718
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412720
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412721
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412724
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412726
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412729
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412730
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412733
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412736
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412738
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925412740
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925423102
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925423105
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466925423128
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466925435888
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435890
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435892
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435895
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435897
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435900
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435902
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435904
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435907
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435909
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435912
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435914
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435916
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435918
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435921
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466925435923

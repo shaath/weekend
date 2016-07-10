@@ -1,0 +1,29 @@
+package day4;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.interactions.Actions;
+
+public class mousehover 
+{
+
+	public static void main(String[] args) 
+	{
+		WebDriver driver=new FirefoxDriver();
+		driver.get("http://amazon.in");
+		driver.manage().window().maximize();
+		
+		WebElement link=driver.findElement(By.id("nav-link-shopall"));
+		Actions act=new Actions(driver);
+		
+		act.moveToElement(link).build().perform();
+		
+		WebElement books=driver.findElement(By.xpath(".//*[@id='nav-flyout-shopAll']/div[2]/span[3]/span"));
+		
+		act.moveToElement(books).build().perform();
+
+	}
+
+}

@@ -1,0 +1,76 @@
+package com.orgHrm.Master;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class orgMaster 
+{
+	//Global Variables
+	public WebDriver driver;
+	public static String expval,actval;
+	
+	//Launch
+	
+	public String org_Launch(String url)
+	{
+		expval="login";
+		driver=new FirefoxDriver();
+		driver.get(url);
+		driver.manage().window().maximize();
+		actval=driver.findElement(By.id("btnLogin")).getAttribute("value");
+		if (expval.equalsIgnoreCase(actval))
+		{
+			return "Pass";
+		}
+		else
+		{
+			return "Fail";
+		}
+	}
+	
+	//login
+	public String org_Login(String u,String p)
+	{
+		expval="welcome";
+		driver.findElement(By.id("txtUsername")).sendKeys(u);
+		driver.findElement(By.id("txtPassword")).sendKeys(p);
+		driver.findElement(By.id("btnLogin")).click();
+		actval=driver.findElement(By.id("welcome")).getAttribute("id");
+		if (expval.equalsIgnoreCase(actval))
+		{
+			return "Pass";
+		}
+		else
+		{
+			return "Fail";
+		}
+		
+	}
+	//logout
+	
+	public String org_Logout()
+	{
+		expval="login";
+		driver.findElement(By.id("welcome")).click();
+		
+		driver.findElement(By.xpath(".//*[@id='welcome-menu']/ul/li[2]/a")).click();
+		actval=driver.findElement(By.id("btnLogin")).getAttribute("value");
+		if (expval.equalsIgnoreCase(actval))
+		{
+			return "Pass";
+		}
+		else
+		{
+			return "Fail";
+		}
+	}
+	
+	//close
+	public void org_Close()
+	{
+		driver.close();
+	}
+	
+
+}

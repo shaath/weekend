@@ -1,0 +1,21 @@
+package day4;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class filedownload 
+{
+
+	public static void main(String[] args) 
+	{
+//		WebDriver driver=new FirefoxDriver();
+//		driver.get("http://docs.seleniumhq.org/download/");
+//		driver.manage().window().maximize();
+//		
+//		driver.findElement(By.linkText("2.53.1")).click();
+		
+		
+	}
+
+}

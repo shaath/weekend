@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1466922824580
+stopped,bundle,org.eclipse.wst.jsdt.debug.crossfire,1.0.150.v201201112259,"org.eclipse.wst.jsdt.debug.crossfire",1466922824583
+stopped,bundle,org.eclipse.wst.jsdt.debug.rhino,1.0.101.v201201112313,"org.eclipse.wst.jsdt.debug.rhino",1466922824585
+stopped,bundle,org.eclipse.wst.jsdt.debug.core,2.0.101.v201201112313,"org.eclipse.wst.jsdt.debug.core",1466922824588
+stopped,bundle,org.eclipse.wst.jsdt.manipulation,1.0.300.v201104272153,"org.eclipse.wst.jsdt.manipulation",1466922824591
+stopped,bundle,org.eclipse.wst.jsdt.web.core,1.0.401.v201108152113,"org.eclipse.wst.jsdt.web.core",1466922824594
+stopped,bundle,org.eclipse.wst.jsdt.core,1.1.102.v201111090634,"org.eclipse.wst.jsdt.core",1466922824597
+stopped,bundle,org.eclipse.team.core,3.7.0.v20130514-1224,"org.eclipse.team.core",1466922824597
+stopped,bundle,org.eclipse.ui.externaltools,3.2.300.v20140327-1949,"org.eclipse.ui.externaltools",1466922824600
+stopped,bundle,org.eclipse.wst.server.preview.adapter,1.1.0.v20090311b,"org.eclipse.wst.server.preview.adapter",1466922824602
+stopped,bundle,org.eclipse.wst.server.http.ui,1.0.200.v20090113,"org.eclipse.wst.server.http.ui",1466922824605
+stopped,bundle,org.eclipse.wst.server.ui,1.3.0.v20120210_1439,"org.eclipse.wst.server.ui",1466922824605
+stopped,bundle,org.eclipse.debug.ui,3.10.2.v20141014-1039,"org.eclipse.debug.ui",1466922824620
+stopped,bundle,org.eclipse.mylyn.commons.notifications.ui,1.6.2.v20150217-2244,"org.eclipse.mylyn.commons.notifications.ui",1466922824622
+stopped,bundle,org.eclipse.mylyn.commons.repositories.ui,1.6.2.v20150217-2244,"org.eclipse.mylyn.commons.repositories.ui",1466922824622
+stopped,bundle,org.eclipse.mylyn.context.ui,3.14.2.v20150218-0125,"org.eclipse.mylyn.context.ui",1466922824623
+stopped,bundle,org.eclipse.mylyn.commons.workbench,3.14.2.v20150217-2244,"org.eclipse.mylyn.commons.workbench",1466922824623
+stopped,bundle,org.eclipse.rse.subsystems.files.ftp,2.1.301.R33x_v201107212114,"org.eclipse.rse.subsystems.files.ftp",1466922824625
+stopped,bundle,org.eclipse.ui.console,3.5.300.v20140424-1437,"org.eclipse.ui.console",1466922824625
+stopped,bundle,org.eclipse.wb.os.win32,1.7.0.r44x201405021445,"org.eclipse.wb.os.win32",1466922824627
+stopped,bundle,org.eclipse.wb.core,1.7.0.r44x201405021445,"org.eclipse.wb.core",1466922824628
+stopped,bundle,org.eclipse.mylyn.wikitext.ui,1.5.0.v20110608-1400,"org.eclipse.mylyn.wikitext.ui",1466922824637
+stopped,bundle,org.eclipse.rse.efs,2.1.300.v201101042155,"org.eclipse.rse.efs",1466922824639
+stopped,bundle,org.eclipse.ui.editors,3.8.200.v20140401-1310,"org.eclipse.ui.editors",1466922824640
+stopped,bundle,org.eclipse.rse.subsystems.files.dstore,2.1.201.R33x_v201109141647,"org.eclipse.rse.subsystems.files.dstore",1466922824642
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1466923060011
+started,bundle,org.eclipse.osgi,3.10.2.v20150203-1939,"org.eclipse.osgi",1466923060018
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.1.0.v20131217-1203,"org.eclipse.equinox.simpleconfigurator",1466923060021
+started,bundle,com.ibm.icu,52.1.1.v201501240615,"com.ibm.icu",1466923060022
+started,bundle,org.apache.felix.gogo.command,0.10.0.v201209301215,"org.apache.felix.gogo.command",1466923060025
+started,bundle,org.apache.felix.gogo.runtime,0.10.0.v201209301036,"org.apache.felix.gogo.runtime",1466923060027
+started,bundle,org.apache.felix.gogo.shell,0.10.0.v201212101605,"org.apache.felix.gogo.shell",1466923060030
+started,bundle,org.eclipse.compare.core,3.5.400.v20130903-0736,"org.eclipse.compare.core",1466923060031
+started,bundle,org.eclipse.core.contenttype,3.4.200.v20140207-1251,"org.eclipse.core.contenttype",1466923060032
+started,bundle,org.eclipse.core.databinding.observable,1.4.1.v20140210-1835,"org.eclipse.core.databinding.observable",1466923060036
+started,bundle,org.eclipse.core.expressions,3.4.600.v20140128-0851,"org.eclipse.core.expressions",1466923060037
+started,bundle,org.eclipse.core.filebuffers,3.5.400.v20140127-1516,"org.eclipse.core.filebuffers",1466923060038
+started,bundle,org.eclipse.core.filesystem,1.4.100.v20140514-1614,"org.eclipse.core.filesystem",1466923060043
+started,bundle,org.eclipse.core.jobs,3.6.1.v20141014-1248,"org.eclipse.core.jobs",1466923060045
+started,bundle,org.eclipse.core.net,1.2.200.v20140124-2013,"org.eclipse.core.net",1466923060049
+started,bundle,org.eclipse.core.resources,3.9.1.v20140825-1431,"org.eclipse.core.resources",1466923060052
+started,bundle,org.eclipse.core.runtime,3.10.0.v20140318-2214,"org.eclipse.core.runtime",1466923060053
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.200.v20140128-0851,"org.eclipse.core.runtime.compatibility",1466923060056
+started,bundle,org.eclipse.core.variables,3.2.800.v20130819-1716,"org.eclipse.core.variables",1466923060057
+started,bundle,org.eclipse.debug.core,3.9.1.v20140805-1629,"org.eclipse.debug.core",1466923060060
+started,bundle,org.eclipse.e4.core.commands,0.10.2.v20140424-2344,"org.eclipse.e4.core.commands",1466923060063
+started,bundle,org.eclipse.e4.core.contexts,1.3.100.v20140407-1019,"org.eclipse.e4.core.contexts",1466923060066
+started,bundle,org.eclipse.e4.core.di,1.4.0.v20140414-1837,"org.eclipse.e4.core.di",1466923060068
+started,bundle,org.eclipse.e4.core.di.extensions,0.12.0.v20140417-2033,"org.eclipse.e4.core.di.extensions",1466923060071
+started,bundle,org.eclipse.e4.core.services,1.2.1.v20140808-1251,"org.eclipse.e4.core.services",1466923060074
+started,bundle,org.eclipse.e4.ui.bindings,0.10.200.v20140424-2042,"org.eclipse.e4.ui.bindings",1466923060076
+started,bundle,org.eclipse.e4.ui.css.swt,0.11.101.v20140818-1343,"org.eclipse.e4.ui.css.swt",1466923060078
+started,bundle,org.eclipse.e4.ui.css.swt.theme,0.9.300.v20141126-1957,"org.eclipse.e4.ui.css.swt.theme",1466923060081
+started,bundle,org.eclipse.e4.ui.di,1.0.0.v20140328-2112,"org.eclipse.e4.ui.di",1466923060083
+started,bundle,org.eclipse.e4.ui.model.workbench,1.1.0.v20140512-1820,"org.eclipse.e4.ui.model.workbench",1466923060086
+started,bundle,org.eclipse.e4.ui.services,1.1.0.v20140328-1925,"org.eclipse.e4.ui.services",1466923060089
+started,bundle,org.eclipse.e4.ui.workbench,1.2.2.v20141212-1259,"org.eclipse.e4.ui.workbench",1466923060090
+started,bundle,org.eclipse.e4.ui.workbench.addons.swt,1.1.2.v20141126-1310,"org.eclipse.e4.ui.workbench.addons.swt",1466923060091
+started,bundle,org.eclipse.e4.ui.workbench.renderers.swt,0.12.2.v20150204-1353,"org.eclipse.e4.ui.workbench.renderers.swt",1466923060091
+started,bundle,org.eclipse.e4.ui.workbench.swt,0.12.100.v20141126-1150,"org.eclipse.e4.ui.workbench.swt",1466923060092
+started,bundle,org.eclipse.egit.core,3.4.2.201412180340-r,"org.eclipse.egit.core",1466923060093
+started,bundle,org.eclipse.egit.ui,3.4.2.201412180340-r,"org.eclipse.egit.ui",1466923060096
+started,bundle,org.eclipse.emf.common,2.10.1.v20150123-0348,"org.eclipse.emf.common",1466923060098
+started,bundle,org.eclipse.emf.ecore,2.10.2.v20150123-0348,"org.eclipse.emf.ecore",1466923060102
+started,bundle,org.eclipse.emf.ecore.xmi,2.10.2.v20150123-0348,"org.eclipse.emf.ecore.xmi",1466923060104
+started,bundle,org.eclipse.equinox.app,1.3.200.v20130910-1609,"org.eclipse.equinox.app",1466923060105
+started,bundle,org.eclipse.equinox.common,3.6.200.v20130402-1505,"org.eclipse.equinox.common",1466923060106
+started,bundle,org.eclipse.equinox.console,1.1.0.v20140131-1639,"org.eclipse.equinox.console",1466923060108
+started,bundle,org.eclipse.equinox.ds,1.4.200.v20131126-2331,"org.eclipse.equinox.ds",1466923060109
+started,bundle,org.eclipse.equinox.event,1.3.100.v20140115-1647,"org.eclipse.equinox.event",1466923060111
+started,bundle,org.eclipse.equinox.p2.core,2.3.0.v20131211-1531,"org.eclipse.equinox.p2.core",1466923060112
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.1.0.v20131211-1531,"org.eclipse.equinox.p2.directorywatcher",1466923060113
+started,bundle,org.eclipse.equinox.p2.engine,2.3.0.v20140506-1720,"org.eclipse.equinox.p2.engine",1466923060114
+started,bundle,org.eclipse.equinox.p2.metadata,2.2.0.v20131211-1531,"org.eclipse.equinox.p2.metadata",1466923060115
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.2.100.v20131209-2144,"org.eclipse.equinox.p2.metadata.repository",1466923060116
+started,bundle,org.eclipse.equinox.p2.operations,2.4.0.v20131119-0908,"org.eclipse.equinox.p2.operations",1466923060118
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.200.v20131119-0908,"org.eclipse.equinox.p2.reconciler.dropins",1466923060120
+started,bundle,org.eclipse.equinox.p2.repository,2.3.0.v20131211-1531,"org.eclipse.equinox.p2.repository",1466923060120
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.2.0.v20140422-1847,"org.eclipse.equinox.p2.ui.sdk.scheduler",1466923060121
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.200.v20131119-0908,"org.eclipse.equinox.p2.updatechecker",1466923060122
+started,bundle,org.eclipse.equinox.preferences,3.5.200.v20140224-1527,"org.eclipse.equinox.preferences",1466923060124
+started,bundle,org.eclipse.equinox.registry,3.5.400.v20140428-1507,"org.eclipse.equinox.registry",1466923060125
+started,bundle,org.eclipse.equinox.security,1.2.0.v20130424-1801,"org.eclipse.equinox.security",1466923060127
+started,bundle,org.eclipse.equinox.util,1.0.500.v20130404-1337,"org.eclipse.equinox.util",1466923060128
+started,bundle,org.eclipse.help,3.6.0.v20130326-1254,"org.eclipse.help",1466923060129
+started,bundle,org.eclipse.jface,3.10.2.v20141021-1035,"org.eclipse.jface",1466923060130
+started,bundle,org.eclipse.jgit,3.4.2.201412180340-r,"org.eclipse.jgit",1466923060132
+started,bundle,org.eclipse.jsch.core,1.1.500.v20131112-1442,"org.eclipse.jsch.core",1466923060134
+started,bundle,org.eclipse.ltk.core.refactoring,3.6.101.v20140817-1500,"org.eclipse.ltk.core.refactoring",1466923060136
+started,bundle,org.eclipse.ltk.ui.refactoring,3.7.100.v20140324-1358,"org.eclipse.ltk.ui.refactoring",1466923060137
+started,bundle,org.eclipse.m2e.logback.configuration,1.5.1.20150109-1820,"org.eclipse.m2e.logback.configuration",1466923060139
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.14.2.v20150217-2341,"org.eclipse.mylyn.bugzilla.core",1466923060140
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.14.2.v20150217-2341,"org.eclipse.mylyn.bugzilla.ui",1466923060142
+started,bundle,org.eclipse.mylyn.builds.ui,1.6.2.v20150218-0552,"org.eclipse.mylyn.builds.ui",1466923060142
+started,bundle,org.eclipse.mylyn.commons.core,3.14.2.v20150217-2244,"org.eclipse.mylyn.commons.core",1466923060144
+started,bundle,org.eclipse.mylyn.commons.net,3.14.2.v20150217-2244,"org.eclipse.mylyn.commons.net",1466923060144
+started,bundle,org.eclipse.mylyn.commons.notifications.core,1.6.2.v20150217-2244,"org.eclipse.mylyn.commons.notifications.core",1466923060145
+started,bundle,org.eclipse.mylyn.commons.notifications.feed,1.6.2.v20150217-2244,"org.eclipse.mylyn.commons.notifications.feed",1466923060146
+started,bundle,org.eclipse.mylyn.commons.repositories.ui,1.6.2.v20150217-2244,"org.eclipse.mylyn.commons.repositories.ui",1466923060148
+started,bundle,org.eclipse.mylyn.commons.ui,3.14.2.v20150217-2244,"org.eclipse.mylyn.commons.ui",1466923060148
+started,bundle,org.eclipse.mylyn.commons.workbench,3.14.2.v20150217-2244,"org.eclipse.mylyn.commons.workbench",1466923060150
+started,bundle,org.eclipse.mylyn.context.core,3.14.2.v20150218-0125,"org.eclipse.mylyn.context.core",1466923060151
+started,bundle,org.eclipse.mylyn.context.tasks.ui,3.14.2.v20150218-0125,"org.eclipse.mylyn.context.tasks.ui",1466923060153
+started,bundle,org.eclipse.mylyn.monitor.ui,3.14.2.v20150217-2244,"org.eclipse.mylyn.monitor.ui",1466923060154
+started,bundle,org.eclipse.mylyn.tasks.ui,3.14.2.v20150217-2341,"org.eclipse.mylyn.tasks.ui",1466923060155
+started,bundle,org.eclipse.mylyn.team.ui,3.14.2.v20150218-0125,"org.eclipse.mylyn.team.ui",1466923060156
+started,bundle,org.eclipse.team.core,3.7.0.v20130514-1224,"org.eclipse.team.core",1466923060156
+started,bundle,org.eclipse.team.ui,3.7.100.v20130710-1213,"org.eclipse.team.ui",1466923060158
+started,bundle,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui",1466923060161
+started,bundle,org.eclipse.ui.console,3.5.300.v20140424-1437,"org.eclipse.ui.console",1466923060163
+started,bundle,org.eclipse.ui.editors,3.8.200.v20140401-1310,"org.eclipse.ui.editors",1466923060163
+started,bundle,org.eclipse.ui.forms,3.6.100.v20140422-1825,"org.eclipse.ui.forms",1466923060164
+started,bundle,org.eclipse.ui.ide,3.10.2.v20141118-1227,"org.eclipse.ui.ide",1466923060168
+started,bundle,org.eclipse.ui.net,1.2.200.v20120807-0927,"org.eclipse.ui.net",1466923060170
+started,bundle,org.eclipse.ui.themes,1.0.1.v20141126-1957,"org.eclipse.ui.themes",1466923060170
+started,bundle,org.eclipse.ui.views,3.7.0.v20140408-0703,"org.eclipse.ui.views",1466923060172
+started,bundle,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"org.eclipse.ui.workbench",1466923060174
+started,bundle,org.eclipse.ui.workbench.texteditor,3.9.0.v20140411-1521,"org.eclipse.ui.workbench.texteditor",1466923060177
+started,bundle,org.eclipse.update.configurator,3.3.300.v20140518-1928,"org.eclipse.update.configurator",1466923060178
+started,bundle,org.eclipse.epp.mpc.ui,1.1.1.I20110907-0947,"org.eclipse.epp.mpc.ui",1466923060179
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201106061540,"org.eclipse.epp.usagedata.gathering",1466923060180
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201106061540,"org.eclipse.epp.usagedata.recording",1466923060182
+started,bundle,org.eclipse.equinox.event,1.2.100.v20110502,"org.eclipse.equinox.event",1466923060183
+started,bundle,org.eclipse.jdt.apt.core,3.3.500.v20110420-1015,"org.eclipse.jdt.apt.core",1466923060185
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1466923060187
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1466923060191
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1466923060192
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1466923060193
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1466923060194
+started,bundle,org.eclipse.jst.ws.jaxws.utils,1.0.100.v201201031437,"org.eclipse.jst.ws.jaxws.utils",1466923060195
+started,bundle,org.eclipse.pde.launching,3.6.0.v20110506,"org.eclipse.pde.launching",1466923060197
+started,bundle,org.eclipse.pde.ui,3.6.100.v20120103_r372,"org.eclipse.pde.ui",1466923060200
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1466923060202
+started,bundle,org.eclipse.team.cvs.ui,3.3.401.v20120126-1227,"org.eclipse.team.cvs.ui",1466923060204
+started,bundle,org.eclipse.ui.views.log,1.0.200.v20110404,"org.eclipse.ui.views.log",1466923060205
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1466923060207
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1466923060209
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1466923060210
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1466923060211
+os,sysinfo,,,"win32",1466923060217
+arch,sysinfo,,,"x86_64",1466923060217
+ws,sysinfo,,,"win32",1466923060217
+locale,sysinfo,,,"en_US",1466923060217
+processors,sysinfo,,,"4",1466923060217
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1466923060217
+java.runtime.version,sysinfo,,,"1.7.0_79-b15",1466923060217
+java.specification.name,sysinfo,,,"Java Platform API Specification",1466923060217
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1466923060217
+java.specification.version,sysinfo,,,"1.7",1466923060217
+java.vendor,sysinfo,,,"Oracle Corporation",1466923060217
+java.version,sysinfo,,,"1.7.0_79",1466923060217
+java.vm.info,sysinfo,,,"mixed mode",1466923060217
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1466923060217
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1466923060217
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1466923060217
+java.vm.specification.version,sysinfo,,,"1.7",1466923060217
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1466923060218
+java.vm.version,sysinfo,,,"24.79-b02",1466923060218
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923130553
+started,bundle,org.eclipse.compare,3.5.501.v20140817-1445,"org.eclipse.compare",1466923145795
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923151725
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923245445
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.file.export",1466923245465
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.file.export",1466923245466
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466923250675
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923253408
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923254592
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923255891
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923313479
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1466923315078
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923316835
+started,bundle,org.eclipse.wb.core.lib,1.7.0.r44x201405021445,"org.eclipse.wb.core.lib",1466923327804
+started,bundle,org.eclipse.wb.core,1.7.0.r44x201405021445,"org.eclipse.wb.core",1466923327833
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923328560
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466923328966
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1466923329114
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.delete",1466923335352
+started,bundle,org.eclipse.jpt.jaxb.ui,1.1.2.v201201260000,"org.eclipse.jpt.jaxb.ui",1466923338174
+started,bundle,org.eclipse.jst.ws.jaxws.ui,1.0.100.v201104032053,"org.eclipse.jst.ws.jaxws.ui",1466923338183
+started,bundle,org.eclipse.mylyn.java.ui,3.14.2.v20150218-0125,"org.eclipse.mylyn.java.ui",1466923338192
+started,bundle,org.eclipse.recommenders.injection,2.1.12.v20150212-1812,"org.eclipse.recommenders.injection",1466923338211
+started,bundle,org.eclipse.recommenders.rcp,2.1.12.v20150218-0817,"org.eclipse.recommenders.rcp",1466923338236
+started,bundle,org.eclipse.recommenders.completion.rcp,2.1.12.v20150213-0747,"org.eclipse.recommenders.completion.rcp",1466923338243
+started,bundle,org.eclipse.recommenders.chain.rcp,2.1.12.v20150212-1812,"org.eclipse.recommenders.chain.rcp",1466923338249
+started,bundle,org.eclipse.recommenders.models,2.1.12.v20150212-1812,"org.eclipse.recommenders.models",1466923338256
+started,bundle,org.eclipse.recommenders.apidocs.rcp,2.1.12.v20150212-1812,"org.eclipse.recommenders.apidocs.rcp",1466923338263
+started,bundle,org.eclipse.pde.api.tools,1.0.301.v20111129-2053,"org.eclipse.pde.api.tools",1466923339717
+started,bundle,org.eclipse.pde.api.tools.ui,1.0.301.v20110803_r371,"org.eclipse.pde.api.tools.ui",1466923339720
+started,bundle,org.eclipse.jpt.common.core,1.0.2.v201111103010,"org.eclipse.jpt.common.core",1466923340095
+started,bundle,org.eclipse.jst.common.project.facet.core,1.4.200.v201103170302,"org.eclipse.jst.common.project.facet.core",1466923340175
+started,bundle,org.eclipse.jst.ws.jaxrs.core,1.0.301.v201108240656,"org.eclipse.jst.ws.jaxrs.core",1466923340183
+started,bundle,org.eclipse.jpt.jaxb.core,1.0.2.v201111103010,"org.eclipse.jpt.jaxb.core",1466923340188
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466923340411
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923340416
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466923340570
+started,bundle,org.eclipse.jdt.junit,3.7.0.v20110928-1453,"org.eclipse.jdt.junit",1466923340837
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466923349022
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923349025
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.text.contentAssist.proposals",1466923349101
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466923355136
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355138
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355171
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355434
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355436
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355441
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355443
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355445
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355454
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355463
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355465
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355468
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355471
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355473
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355475
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355478
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355485
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355488
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355490
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355492
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355495
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355498
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355500
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923355502
+error,log,,,"Unhandled event loop exception",1466923355987
+deactivated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923364983
+activated,workbench,org.eclipse.ui.workbench,3.106.2.v20150204-1030,"",1466923368987
+executed,command,org.eclipse.ui,3.106.1.v20141002-1150,"org.eclipse.ui.edit.paste",1466923373239
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.overrides.rcp.OverrideCompletionSessionProcessor’ failed with exception.",1466923382169
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382171
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382173
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382175
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382178
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382186
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382188
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382191
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382193
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382196
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382199
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382201
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382209
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382211
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382215
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382217
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382220
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382222
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382225
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382227
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382229
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382232
+error,log,,,"Session processor ‘class org.eclipse.recommenders.internal.calls.rcp.CallCompletionSessionProcessor’ failed with exception.",1466923382234
